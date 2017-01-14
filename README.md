@@ -1,2 +1,1 @@
-# jig.github.io
-jig main page
+[jig main page](https://jig.github.io)
